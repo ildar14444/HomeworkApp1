@@ -8,10 +8,10 @@ public class HomeWorkApp {
 
         void printThreeWords (String[]args){
             System.out.println(
-                    "_Orange" +
-                            "_Banana" +
-                            "_Apple"
-            )
+                    "Orange + " +
+                            "Banana + " +
+                            "Apple")
+
         }
 
 
